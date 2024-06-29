@@ -15,6 +15,6 @@ A simple image slider project displaying images from popular anime series.
 - JavaScript
 
 ## Preview
--putting just 1 image for preview but there are 4 images applied in the code
+-putting just 1 image for preview but there are 4 images applied in the code you can see there are **image slider buttons on sides of images** :)
 
 ![Image Slider Preview](preview.png)
